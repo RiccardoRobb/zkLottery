@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "creator0": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator0.json",
+      "fee": "0.1",
+      "smartContract": "Lottery"
+    },
+    "creator1": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator1.json",
+      "fee": "0.1"
+    },
+    "creator2": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator2.json",
+      "fee": "0.1"
+    },
+    "creator3": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator3.json",
+      "fee": "0.1"
+    },
+    "creator4": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator4.json",
+      "fee": "0.1"
+    },
+    "payer": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/payer.json",
+      "fee": "0.1"
+    },
+    "creator5": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/creator5.json",
+      "fee": "0.1",
+      "smartContract": "Lottery"
+    }
+  }
+}
